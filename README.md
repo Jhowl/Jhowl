@@ -1,8 +1,8 @@
-🌐 [(https://johnnycosta.dev)](https://johnnycosta.dev/)
+🌐 [https://johnnycosta.dev](https://johnnycosta.dev/)
 
 <div align="center">
 
-# Jonathan Costa
+# Johnny Costa
 
 **Senior Software Developer**
 
