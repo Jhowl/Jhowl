@@ -5,9 +5,9 @@
 I build APIs, platforms, and data-heavy backends with **PHP/Laravel, Node.js/TypeScript, and AWS**.
 For nearly six years I led backend development at Fuerza Studio, working directly with US clients and coordinating distributed teams between the US and Brazil.
 
-🟢 **Open to senior backend — (US)**
+🟢 **Open to senior backend & tech lead roles — remote (US)**
 
-[🌐 johnnycosta.dev](https://johnnycosta.dev) · [💼 LinkedIn](https://www.linkedin.com/in/jhonatan1/) · [📄 Resume](https://johnnycosta.dev/resume/Jonathan-Costa-Resume.pdf) · [✉️ Email](mailto:YOUR_EMAIL_HERE)
+[🌐 johnnycosta.dev](https://johnnycosta.dev) · [💼 LinkedIn](https://www.linkedin.com/in/jhonatan1/)
 
 ---
 
