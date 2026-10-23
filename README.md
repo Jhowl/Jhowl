@@ -1,76 +1,68 @@
-🌐 [https://johnnycosta.dev](https://johnnycosta.dev/)
+# Jonathan "Johnny" Costa
 
-<div align="center">
+**Senior Backend Engineer · 10+ years · Former Backend Lead**
 
-# Johnny Costa
+I build APIs, platforms, and data-heavy backends with **PHP/Laravel, Node.js/TypeScript, and AWS**.
+For nearly six years I led backend development at Fuerza Studio, working directly with US clients and coordinating distributed teams between the US and Brazil.
 
-**Senior Software Developer**
+🟢 **Open to senior backend & tech lead roles — remote (US)**
 
-Designing and building reliable backend systems and scalable web platforms.
-
-</div>
-
----
-
-## 👋 About
-
-I am a software developer with a strong focus on backend engineering, APIs, and data-driven systems. My experience spans startups, agencies, and distributed teams, where I’ve worked on projects that prioritize performance, security, and maintainability.
-
-I approach software with a pragmatic mindset, favoring clear architecture, well-defined boundaries, and readable code.
+[🌐 johnnycosta.dev](https://johnnycosta.dev) · [💼 LinkedIn](https://www.linkedin.com/in/jhonatan1/) · [📄 Resume](https://johnnycosta.dev/resume/Jonathan-Costa-Resume.pdf) · [✉️ Email](mailto:YOUR_EMAIL_HERE)
 
 ---
 
-## 🧠 Technical Focus
+## 💼 Experience
 
-**Languages & Runtime**
+| Role | Company | Years |
+|---|---|---|
+| **Back-End Developer Lead** | Fuerza Studio | 2020 – 2026 |
+| **Back-End Developer** | Apiki | 2013 – 2020 |
 
-* Node.js, TypeScript, PHP
+**Selected clients & projects:** Jam City (*Harry Potter: Hogwarts Mystery*), Veritone, Ready Set, Warrior Made
 
-**Backend & APIs**
-
-* REST and GraphQL APIs
-* Authentication and authorization
-* Input validation and rate limiting
-* Background processing and integrations
-
-**Data & Storage**
-
-* PostgreSQL
-* Redis
-* Data modeling and query optimization
-
-**Infrastructure**
-
-* Docker and containerized environments
-* CI/CD pipelines
-* Linux-based systems
-
-**Engineering Practices**
-
-* Modular and service-oriented architecture
-* Performance and scalability considerations
-* Security-first development
-* Emphasis on maintainable, documented code
+- Led sprint planning, code reviews, and task delegation for a distributed backend team
+- Built backend APIs with Node.js, MongoDB, and Elasticsearch (Ready Set)
+- Built a WooCommerce subscription management system (Warrior Made)
+- Delivered Golang + GraphQL microservices for an AI media platform (Veritone)
 
 ---
 
-## 💼 Work Style
+## 🛠️ Stack
 
-* Experience in remote, hybrid, and on-site environments
-* Comfortable collaborating across engineering, product, and design
-* Used to owning features end-to-end
-* Preference for simplicity, clarity, and long-term solutions
-
----
-
-## 📍 Location
-
-Based in **New Jersey, USA**
+**Languages:** PHP · TypeScript · JavaScript · Python · SQL · Go
+**Backend:** Laravel · Node.js · Express · FastAPI · REST & GraphQL · WordPress/WooCommerce
+**Data:** MySQL · PostgreSQL · MongoDB · Redis · Elasticsearch
+**Infra:** AWS · Docker · Nginx · Linux · Cloudflare
+**AI:** Local LLMs (Ollama, llama.cpp, vLLM) · n8n · Claude Code
 
 ---
 
-<div align="center">
+## 🚀 Featured projects
 
-*This profile reflects a focus on engineering fundamentals, consistency, and craftsmanship.*
+### [🎬 ClipForge](https://github.com/Jhowl/ClipForge)
+Windows desktop app that turns gameplay recordings into finished YouTube videos.
+- Controls OBS over WebSocket, reads Steam achievements and live Dota 2 game events, and marks moments with global hotkeys
+- Local Whisper transcription and OCR (CPU or CUDA), then **Ollama** text + vision models write titles, descriptions and tags in English and Portuguese
+- Cuts clips, assembles ranked highlight compilations with chapters, generates thumbnails, and uploads through the YouTube Data API (OAuth)
+- Resumable job queue with checkpoints, SQLite library, credentials encrypted with Windows DPAPI
 
-</div>
+`Python` `FFmpeg` `Ollama` `Whisper` `OBS WebSocket` `YouTube API` `SQLite` `Chrome extension`
+
+### [🛒 Costco Tracker](https://github.com/Jhowl/costco-tracker)
+Self-hosted app for household Costco receipts: spending, price history, returns and a shopping calendar, powered by a local LLM.
+- Imports receipts into SQLite; **rapidfuzz** matches the same product across item numbers and links instant savings
+- **Ollama (gemma4:26b)** expands cryptic receipt names, categorizes products, reads photos of paper receipts and answers questions in plain English
+- Tracks return windows (90-day rules), last/lowest/highest prices and per-person views
+- Dockerized, one-command deploy to a home server, pytest test suite, OpenAPI docs
+
+`Python` `FastAPI` `SQLite` `Ollama` `rapidfuzz` `Docker` `JavaScript`
+
+### More
+| Project | What it is | Stack |
+|---|---|---|
+| [**DotaData**](https://dotadata.org/) | Dota 2 analytics platform with a cached TypeScript API | Next.js · Express · TypeScript · Redis |
+| [**BH Cooperative**](http://bhcooperative.com/) | Service platform + workers' cooperative with admin dashboard | Next.js · Supabase · TypeScript |
+
+---
+
+📍 New Jersey, USA · 🇺🇸 English · 🇧🇷 Portuguese
