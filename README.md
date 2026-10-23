@@ -16,7 +16,7 @@ For nearly six years I led backend development at Fuerza Studio, working directl
 | Role | Company | Years |
 |---|---|---|
 | **Lead** | Fuerza Studio | 2024 – 2026 |
-| **Back-End ** | Veritone | 2021 – 2023 |
+| **Back-End** | Veritone | 2021 – 2023 |
 | **Back-End Developer** | Fuerza Studio | 2020 – 2021 |
 | **Back-End Developer** | Apiki | 2013 – 2020 |
 
